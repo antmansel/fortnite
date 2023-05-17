@@ -1,0 +1,51 @@
+#t1{position: absolute;left: 0%;top:0%;background-color: steelblue;border:darkblue;border-style: double;width:20%;height:100%;}
+#t2{position: absolute;left:20.4% ;top:0%;background:#0168E5;border: darkblue;border-style: double;width:80%;height:30%;}
+#t3{background-color: #0168E5;}
+#a1{position: absolute;right: 30%;top:265px;font-size: 50px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#a2{position: absolute;left:5%;top:50px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#a3{position: absolute;left:1%;top:120px;  color: yellow;background: black;border: red;width: 260px;border-width: 10px;height: 220px;}
+a:hover { text-decoration: none;border-style:double;background-color:darkred;  }
+li{text-decoration:none; }
+a{ text-decoration: none;color:yellow;}
+#a5{position: absolute;top: 70%;left:5%;background: black;font-weight: bolder;font-size:20px;border: red;border-width: 4px;border-style:double;width: 100px}
+#a7{position: absolute;top: 75%;left:5%;background: black;font-weight: bolder;font-size:20px;border: red;border-width: 4px;border-style:double;width: 130px}
+div{position:absolute;top:100%;left:1%; border-style: double;border: black;border-width: 10px;height: 100%;width: 1%;}
+#kont{position: absolute;top:400px;right:20%;background-color: black;border: gold;}
+#u1{position: absolute;top:250px;right:60%;font-size: 50px;font-weight: bolder;color: yellow;border: red;border-style: double;background-color: black;}
+#konto{position: absolute;top:400px;right:59%;background-color: black;border: gold;}
+tr{color: goldenrod;font-weight: bolder;font-size: medium;}
+input{background-color: goldenrod;border-style:solid;border-color: red;}table{    font-weight: bolder;}textarea{background-color: goldenrod;}
+textarea{background-color: goldenrod;border: red;}
+#ak{position: absolute;right: 35%;top:250px;font-size: 50px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;z-index: auto;}
+#czar{position: absolute;right: 130px;top:530px;border: double;border-color: red;border-width: 5px;}
+#vd{position: absolute;right:60px;top:430px;font-size: 50px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#klik{position: absolute;right:150px;top:730px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#s1{position: absolute;left: 20.4%;top:500px;border-style: double;border: firebrick;border-width: 20px;}
+#s2{position: absolute;left: 500px;top:500px;border-style: double;border: firebrick;border-width: 20px;}
+#s3{position: absolute;left: 700px;top:500px;border-style: double;border: firebrick;border-width: 20px;}
+#s4{position: absolute;left: 900px;top:500px;border-style: double;border: firebrick;border-width: 20px;}
+#k1{position: absolute;left:380px;top:735px;border-style: double;font-weight: bolder;font-size: 30px;color: yellow;background:black;border-color: red}
+#k2{position: absolute;left:570px;top:735px;border-style: double;font-weight: bolder;font-size: 30px;color: yellow;background:black;border-color: red}
+#k3{position: absolute;left:770px;top:735px;border-style: double;font-weight: bolder;font-size: 30px;color: yellow;background:black;border-color: red}
+#k4{position: absolute;left:970px;top:735px;border-style: double;font-weight: bolder;font-size: 30px;color: yellow;background:black;border-color: red}
+#v1{position: absolute;left:945px;top:460px;border-style: double;font-weight: bolder;font-size: 20px;color: yellow;background:black;border-color: red}
+#v2{position: absolute;left:745px;top:460px;border-style: double;font-weight: bolder;font-size: 20px;color: yellow;background:black;border-color: red}
+#v3{position: absolute;left:545px;top:460px;border-style: double;font-weight: bolder;font-size: 20px;color: yellow;background:black;border-color: red}
+#v4{position: absolute;left:355px;top:460px;border-style: double;font-weight: bolder;font-size: 20px;color: yellow;background:black;border-color: red}
+#ilo{position: absolute;left:400px;top:350px;background-color: black;width: 150px;height: 50px;font-size: 50px;color:yellow;border: red;border-style: double;}
+#plus{position: absolute;left:553px;top:350px;font-size: 43.5px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#tw{position: absolute;left:400px;top:310px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#asa{background-image: url("z4.jpg");}
+#kar{position: absolute;left:400px;top:500px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
+#ns{position: absolute;left:830px;top:330px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
+#nom{position: absolute;left:400px;top:310px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
+#mapa{position: absolute;left: 425px;top:430px;border: double;border-color: red;border-width: 5px;}
+#ms{position: absolute;left: 1150px;top:340px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
+#sezon{position: absolute;left: 600px;top:300px;border: double;border-color: red;border-width: 5px;}
+#an{position: absolute;left: 1500px;top:340px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black}
+#antm{position: absolute;left: 1500px;top:430px;border: double;border-color: red;border-width: 5px;}
+#wilk{position: absolute;left: 1150px;top:430px;border: double;border-color: red;border-width: 5px;}
+#sezony{position: absolute;left: 700px;top:430px;border: double;border-color: red;border-width: 5px;}
+#antmna{position: absolute;left: 1590px;top:700px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
+#grand{position: absolute;left: 1180px;top:732px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
+#wolk{position: absolute;left: 1250px;top:700px;font-size: 30px;font-weight: bolder;color:yellow;border: red;border-style: double;background-color: black;}
